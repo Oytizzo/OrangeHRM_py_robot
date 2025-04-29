@@ -1,5 +1,5 @@
 *** Settings ***
-Resource    ../resources/web_keywords.robot
+Resource    ../../resources/web_keywords.robot
 
 Suite Setup    Open Browser To Login Page
 Suite Teardown    Close Browser
